@@ -1,5 +1,6 @@
 # CPRAS Partner API (PrintPLANR)
 
+Public API contract and integration guide between CPRAS and PrintPLANR for catalog sync, handoff, and webhook status updates.
 ## Purpose
 
 This document details the **lightweight integration** between CPRAS and PrintPLANR, enabling contextual handoff (supplier/buyer) and order/status webhook exchanges.  
